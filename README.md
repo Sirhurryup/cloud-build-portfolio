@@ -1,6 +1,6 @@
 # Cloud Journey (Public Proof Log)
 **Why I'm here**
-I’m transitioning into cloud to build a durable career, solve real problems, and create
+- I’m transitioning into cloud to build a durable career, solve real problems, and create
 options for my family.
 
 **My Focus (next 90 days)**
