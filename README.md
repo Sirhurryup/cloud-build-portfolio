@@ -16,7 +16,7 @@ options for my family.
 (whatever projects or workshops you will do)
 
 **How I document**
-Each project includes: problem → approach → commands/code → screenshots →
+- Each project includes: problem → approach → commands/code → screenshots →
 lessons learned → what I'd do differently.
 
 **Contact/Connect**
