@@ -9,18 +9,11 @@ This repository is my public proof of that tranistion. Showing how I think, how 
 - Infrastructure as Code with Terraform
 - Cloud security fundamentals and access control
 - Clean, structured documentation that reflects real-world engineering practices
-
 Every concept I learn is paired with a build. No shortcuts. 
-  
-**Proof of Progress**
-- Set up GitHub + LinkedIn to document my cloud journey publicly
-- Created this proof log to track progress and showcase consistency
-- Next up: S3 + IAM “Public Access Problem” lab
 
 **Proof of Progress**
-This section will house my cloud labs, build projects, and security-focused walkthrough as I grow.
 
-**Week 1––Foundations in Motion
+**Week 1––Foundations in Motion**
 - Established GitHub and LinkedIn to document work publicly
 - Created this proof log to track consistency and growth
 - Structured projects to reflect problem-solving, not just task completion
@@ -42,11 +35,11 @@ Each build is designed with one goal in mind:
 **How I Approach Every Build**
 Each project in this repository follows a consistent framework: 
 **1. Problem**––what needed to be solved
-**2.** Approach––how I thought through it
-**3.** Commands/code–– what I used to build or troubleshoot
-**4.** Screenshots––visual proof of the work
-**5.** Lessons learned––what the project taught me
-**6.** What I'd do diffently––how I'd strengthen it in a real environment
+**2. Approach**––how I thought through it
+**3. Commands/code**–– what I used to build or troubleshoot
+**4. Screenshots**––visual proof of the work
+**5. Lessons learned**––what the project taught me
+**6. What I'd Improvey**––how I'd strengthen it in a real environment
 
 **What This Repository Reflects**
 - Consistent execution and weekly progress
@@ -55,9 +48,12 @@ Each project in this repository follows a consistent framework:
 - Clear, professional documentation
 - A disciplined transition backed by curiosity and follow-through
 
+This is not a collection of completed labs.
+It's a record of how I develop into a cloud professional. 
+
 **Connect**
-- LinkedIn: <YOUR LINK>
-- GitHub <YOUR LINK>
+- LinkedIn: <https://www.linkedn.com/in/dottington>
+- GitHub <sirhurryup>
 
 If you're hiring for an entry-level or junior cloud/infrastructure/security role, this repository is my way of showing you how I learn, build, and improve in real-time. 
 
