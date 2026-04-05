@@ -65,7 +65,7 @@ Each project in this repository follows a consistent framework:
 
 ## Professional Links
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/dottington)
-- **GitHub:** <sirhurryup>
+- **GitHub:** [Gitgub](https://github.com/sirhurryup)
 
 If you're hiring for an entry-level or junior cloud/infrastructure/security role, this repository is my way of showing you how I learn, build, and improve in real-time.  
 
