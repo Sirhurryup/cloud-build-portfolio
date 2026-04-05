@@ -31,8 +31,6 @@ Every concept I learn is paired with a build. No shortcuts.
 ## Featured Builds
 This section highlights hands-on projects designed to reflect real-world cloud and security thinking.
 
----
-
 ### Active Build Pipeline
 - AWS S3 Static Website + Secure Access Controls
 - IAM User, Group, and Policy Design Lab  
@@ -45,7 +43,7 @@ Each build is designed with one goal in mind:
 
 ---
 
-## How I Approach Every Build**
+## How I Approach Every Build
 Each project in this repository follows a consistent framework:  
 - **Problem**––what needed to be solved
 - **Approach**––how I thought through it
