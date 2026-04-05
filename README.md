@@ -47,8 +47,7 @@ This section highlights hands-on projects designed to reflect real-world cloud a
 - Cloud Security Troubleshooting Scenarios
 
 Each build is designed with one goal in mind: 
-
-## To demonstrate how I think through problems, not just how I follow instructions. No AI!
+**To demonstrate how I think through problems, not just how I follow instructions. No AI!**
 
 ---
 
@@ -83,3 +82,5 @@ It's a record of how I develop into a cloud professional.
 If you're hiring for an entry-level or junior cloud/infrastructure/security role, this repository is my way of showing you how I learn, build, and improve in real-time. 
 
 **No fluff. Just proof, progress, and execution.**
+
+---
