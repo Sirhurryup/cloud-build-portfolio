@@ -36,21 +36,20 @@ This section highlights hands-on projects designed to reflect real-world cloud a
 - IAM User, Group, and Policy Design Lab  
 - EC2 Deployment with Monitoring via CloudWatch
 - Terraform Starter Build for AWS infrastructure
-- Cloud Security Troubleshooting Scenarios
-
-Each build is designed with one goal in mind:   
-**To demonstrate how I think through problems, not just how I follow instructions. No AI!**
+- Cloud Security Troubleshooting Scenarios  
+>Each build is designed with one goal in mind:   
+>**To demonstrate how I think through problems, not just how I follow instructions. No AI!**
 
 ---
 
 ## How I Approach Every Build
 Each project in this repository follows a consistent framework:  
-- **Problem**––what needed to be solved
-- **Approach**––how I thought through it
-- **Commands/code**–– what I used to build or troubleshoot
-- **Screenshots**––visual proof of the work
-- **Lessons learned**––what the project taught me
-- **What I'd Improve**––how I'd strengthen it in a real environment
+- **Problem** - what needed to be solved
+- **Approach** - how I thought through it
+- **Commands/Code** -  what I used to build or troubleshoot
+- **Screenshots** - visual proof of the work
+- **Lessons learned** - what the project taught me
+- **What I'd Improve** - how I'd strengthen it in a real environment
 ---
 
 ## What This Work Represents
