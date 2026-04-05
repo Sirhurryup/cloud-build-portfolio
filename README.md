@@ -1,3 +1,9 @@
+# Cloud Infrastructure Proof Log 
+
+**Documenting my transition into cloud through hands-on builds, disciplined learning, and real-world problem solving.**
+
+---
+
 **Why Cloud, Why Now**
 
 I'm steppting into cloud with intention. 
