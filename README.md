@@ -1,12 +1,9 @@
-# Cloud Infrastructure Proof Log 
-
+# Cloud Infrastructure Proof Log   
 **Documenting my transition into cloud through hands-on builds, disciplined learning, and real-world problem solving.**
-
 ---
 
 ## Why Cloud, Why Now
-
-I'm steppting into cloud with intention. 
+I'm steppting into cloud with intention.   
 Not just to learn tools, but to build systems, solve problems, and create a career with long-term stability and impact. 
 
 This repository is my public proof of that tranistion. Showing how I think, how I build, and how I improve over time.
@@ -18,8 +15,7 @@ This repository is my public proof of that tranistion. Showing how I think, how 
 - Infrastructure as Code with Terraform
 - Cloud security fundamentals and access control
 - Clean, structured documentation that reflects real-world engineering practices
-Every concept I learn is paired with a build. No shortcuts.
-
+Every concept I learn is paired with a build. No shortcuts.  
 ---
 
 ## Proof of Progress
@@ -28,12 +24,10 @@ Every concept I learn is paired with a build. No shortcuts.
 - Established GitHub and LinkedIn to document work publicly
 - Created this proof log to track consistency and growth
 - Structured projects to reflect problem-solving, not just task completion
-- Next build: **S3 + IAM "Public Access Problem" Lab**
-
+- Next build: **S3 + IAM "Public Access Problem" Lab**  
 ---
 
 ## Featured Builds
-
 This section highlights hands-on projects designed to reflect real-world cloud and security thinking.
 
 ---
@@ -46,21 +40,19 @@ This section highlights hands-on projects designed to reflect real-world cloud a
 - Terraform Starter Build for AWS infrastructure
 - Cloud Security Troubleshooting Scenarios
 
-Each build is designed with one goal in mind: 
+Each build is designed with one goal in mind:   
 **To demonstrate how I think through problems, not just how I follow instructions. No AI!**
 
 ---
 
 ## How I Approach Every Build**
-Each project in this repository follows a consistent framework: 
-
+Each project in this repository follows a consistent framework:  
 - **Problem**––what needed to be solved
 - **Approach**––how I thought through it
 - **Commands/code**–– what I used to build or troubleshoot
 - **Screenshots**––visual proof of the work
 - **Lessons learned**––what the project taught me
-- **What I'd Improvey**––how I'd strengthen it in a real environment
-
+- **What I'd Improve**––how I'd strengthen it in a real environment
 ---
 
 ## What This Repository Reflects
@@ -68,19 +60,16 @@ Each project in this repository follows a consistent framework:
 - Hands-on clould builds with increasing complexity
 - Security awareness integrated into the learning
 - Clear, professional documentation
-- A disciplined transition backed by curiosity and follow-through
-
-This is not a collection of completed labs.
-It's a record of how I develop into a cloud professional.
-
+- A disciplined transition backed by curiosity and follow-through  
+This is not a collection of completed labs.  
+It's a record of how I develop into a cloud professional.  
 ---
 
 ## Connect
 - LinkedIn: <https://www.linkedn.com/in/dottington>
 - GitHub <sirhurryup>
 
-If you're hiring for an entry-level or junior cloud/infrastructure/security role, this repository is my way of showing you how I learn, build, and improve in real-time. 
-
+If you're hiring for an entry-level or junior cloud/infrastructure/security role, this repository is my way of showing you how I learn, build, and improve in real-time.  
 **No fluff. Just proof, progress, and execution.**
 
 ---
