@@ -50,7 +50,7 @@ If roles change, permissions can be updated in one place.
 This reduces errors, improves security, and makes systmes easier to maintain. 
 
 ---
-## Architectyure Overview (Conceptual) 
+## Architecture Overview (Conceptual) 
 Requests can come from the AWS Management Console, CLI, or API. 
 All requests pass through IAM for authentication and authorization. 
 IAM evaluates the request against policies attached to users, groups, or roles. 
