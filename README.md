@@ -43,7 +43,7 @@ This section highlights hands-on projects designed to reflect real-world cloud a
 
 ### Active Build Pipeline
 - AWS S3 Static Website + Secure Access Controls
-- IAM User, Group, and Policy Design Lab  
+- [AWS IAM User and Access Management Lab](projects/iam-user-access-management/README.md)  
 - EC2 Deployment with Monitoring via CloudWatch
 - Terraform Starter Build for AWS infrastructure
 - Cloud Security Troubleshooting Scenarios  
