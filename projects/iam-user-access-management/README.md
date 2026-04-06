@@ -83,6 +83,6 @@ If allowed, the request reaches the target service such as EC2, S3, or IAM itsel
 ---
 ## Final Thoughts 
 This project shifted how I think about access. 
-It is not just about creating users. It is about designing a system where accewss is controlled, scalable, and intentional. 
+It is not just about creating users. It is about designing a system where access is controlled, scalable, and intentional. 
 In my opinion, this is where cloud security begins. 
 
