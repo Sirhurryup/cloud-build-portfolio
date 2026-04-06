@@ -22,15 +22,15 @@ Authentication answers the question:
 Who are you? 
 
 Authorization answers the question:   
-What are you allowed to do? 
+**What are you allowed to do?** 
 
-In AWS, every request must first be authenticated. Once identity is confirmed, polices determine whether access is allowed or denied. 
+In AWS, every request must first be authenticated. Once identity is confirmed, policies determine whether access is allowed or denied. 
 
 Users can access AWS in three ways: 
 
 - Management Console using username and password
 - Command Line Interface (CLI) using access keys
-- API using access keys
+- Application Programming Interface (API) using access keys
 
 Short term credentials can also be generated through AWS Securtiy Token Service 
 
@@ -74,7 +74,7 @@ If allowed, the request reaches the target service such as EC2, S3, or IAM itsel
 - Users do not have permission by default
 - Group based access contorl simplifies management
 - Policies are the foundation of authorization
-- Authentication must occur before any AWs request is processed
+- Authentication must occur before any AWS request is processed
 - IAM structure directly impacts security and scalability
 ---
 ## What I Would Improve 
