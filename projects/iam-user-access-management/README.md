@@ -59,9 +59,14 @@ If allowed, the request reaches the target service such as EC2, S3, or IAM itsel
 ---
 ## Screenshots 
 ### IAM Dashboard
-### User Groups Created 
+![IAM Dashboard](../../assets/screenshots/iam-dashboard.png) 
+### User Groups Created
+![User Groups](../../assets/screenshots/iam-groups.png) 
 ### User Creation and Group Assignment
+![User Creation](../../assets/screenshots/iam-user-created.png) 
 ### Policy Attached to Group
+![Policies](../../assets/screenshots/iam-policy.png)
+
 ---
 ## Lessons Learned 
 - Users do not have permission by default
