@@ -17,7 +17,7 @@ Rather than creating users in isolation, I focused on structuring access through
 ---
 ## How IAM Works (My Understanding)
 IAM operates on two core ideas: authentication and authorization.  
-Authentication answers the question: 
+Authentication answers the question:  
 Who are you? 
 
 Authorization answers the question: 
