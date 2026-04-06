@@ -19,7 +19,7 @@ Rather than creating users in isolation, I focused on structuring access through
 IAM operates on two core ideas: authentication and authorization.  
 
 Authentication answers the question:   
-Who are you? 
+**Who are you?** 
 
 Authorization answers the question:   
 **What are you allowed to do?** 
